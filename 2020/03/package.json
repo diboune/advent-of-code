@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "watch": "deno run --allow-read --allow-env --watch index.ts"
+    }
+}
